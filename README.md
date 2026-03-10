@@ -1,14 +1,12 @@
-# Name : RAGUL K R 
+# Name : DEEPIKA G
 
-# Reg No : 212224240123
+# Reg No : 212224040060
 
 #  Mean and variance of a discrete  distribution
-
 
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
-
 
 # Software required :  
 
@@ -53,8 +51,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
-#Developed by : Ragul K R
-#Register No : 212224240123
+#Developed by : DEEPIKA G
+#Register No : 212224040060
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
@@ -79,12 +77,8 @@ print("The Variance of arrival from feeder is %.3f "%var)
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
 
-
-
 # Output : 
-![image](https://github.com/user-attachments/assets/7842ef6d-68ef-44df-a36f-b0a5a7509a98)
-
+<img width="801" height="680" alt="Screenshot 2026-03-10 081510" src="https://github.com/user-attachments/assets/32d82fca-af5b-467d-b369-50c8de0211ee" />
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
-
