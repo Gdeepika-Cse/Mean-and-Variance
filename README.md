@@ -1,5 +1,4 @@
 # Name : DEEPIKA G
-
 # Reg No : 212224040060
 
 #  Mean and variance of a discrete  distribution
@@ -25,7 +24,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 ![image](https://user-images.githubusercontent.com/103921593/192938695-99fedc01-34d5-4d36-84df-5880e766ed0c.png)
 
-
 # Procedure :
 
 1. Construct frequency distribution for the data
@@ -43,11 +41,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 5.  Calculate variance using 
   
       ![image](https://user-images.githubusercontent.com/103921593/192942852-913550a9-fabe-4a55-b956-0487b18bbd97.png)
-
-
-# Experiment :
-
-![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
 ```
