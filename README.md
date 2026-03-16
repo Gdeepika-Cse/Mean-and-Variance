@@ -74,5 +74,6 @@ print("The Standard deviation of arrival from feeder is %.3F " % SD)
 
 # Output : 
 ![image](https://github.com/Gdeepika-Cse/Mean-and-Variance/blob/main/Screenshot%202026-03-15%20112851.png)
+
 # Result :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
